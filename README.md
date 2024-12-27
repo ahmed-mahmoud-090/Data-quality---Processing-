@@ -1,6 +1,9 @@
 # Data-Quality-Processing
 
 ## **Streamlit Data Assistant with Chatbot**
+[Download Video](https://github.com/ahmed-mahmoud-090/Data-quality---Processing-/blob/main/%D9%90%20%D9%90%20(DataQuality)'s%20Video%20-%20Dec%2023%2C%202024-VEED.gif
+)
+
 ## **Overview** 
 A Streamlit-powered web application that allows users to upload datasets (CSV, Excel), manipulate data types, and interact with a Language Model (LLM) to analyze and query data in a conversational format. The application enables data transformations such as changing data types, renaming columns, and running queries using the chatbot powered by LangChain.
 
